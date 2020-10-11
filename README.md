@@ -1,1 +1,1 @@
-# baekproject
+# salo_project
